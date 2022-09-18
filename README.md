@@ -1,6 +1,8 @@
 # ethberlin
 Result of the ETHBerlin Hackathon 2022.
 
+Netifly Link: https://6326da50c049e404e8f946fc--delicate-praline-863e8f.netlify.app/ 
+
 - Problem Statement: 
 
 People who want to enter the Web3 ecosystem are often easily overwhelmed by the sheer volume of blogs, articles and bariers to entry. They simply need an easy accessible way to learn about Blockchain technology.
