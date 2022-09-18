@@ -6,8 +6,6 @@ const HashPopup = (props) => {
       <div className="p-10">
         <h1 className="text-lg font-bold text-center undeline">Hash</h1>
         <br />
-        <p>Hashes are part of the PoW system</p>
-        <br />
         <p>
           A hash is a mathematical function that converts an input of length
           into an encrypted output of a fixed length. Thus regardless of the
